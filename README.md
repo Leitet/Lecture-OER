@@ -1,7 +1,7 @@
 Erfarenheter och tankar kring öppet lärande
 ===========================================
 * Webbprogrammerare.se - en "öppen" utbildning
-* Låser vi in lärandet i lärplattformar?
+* Hur kan vi ta öppet lärande längre?
 * Vad kan vi lära av OpenSource-rörelsen?
 
 
