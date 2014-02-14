@@ -94,15 +94,22 @@ slides > slide.lnu {
 .box-yellow {
   position:absolute;
   padding: 10px 20px;
-  background: rgba(255, 254, 0, 0.4);
+  background: rgba(255, 254, 0, 0.9);
 
 }
 
 .box-black {
   position:absolute;
   padding: 10px 20px;
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 1);
   color: #FFF;
+}
+
+.box-black a{
+  color:white;
+}
+.box-black a:hover{
+  color:yellow !important;
 }
 
 .line {
@@ -117,3 +124,14 @@ img.polaroid {
  
 
 }
+
+.shadow{
+-webkit-box-shadow: 10px 10px 200px 10px rgba(0,0,0,1);
+box-shadow: 10px 10px 200px 10px rgba(0,0,0,1);
+
+}
+
+.source{
+  display:inline;
+}
+
