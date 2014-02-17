@@ -24,10 +24,11 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: 'Johan Leitet',
     company: 'Universitetsadjunkt i datavetenskap<br>Linnéuniversitetet',
-    gplus: 'http://plus.google.com/+JohanLeitet/',
+    
     twitter: '@leitet',
-    www: 'http://johan.leitet.se',
-    github: 'http://github.com/leitet'
+    www: 'http:/johan.leitet.se',
+    github: 'http://github.com/leitet',
+    gplus: 'http://plus.google.com/+JohanLeitet/'
   }/*, {
     name: 'Second Name',
     company: 'Job Title, Google',
